@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello | Cath Ge-Wang"
+title: "Hello - Cath Ge-Wang"
 author_profile: true
 redirect_from: 
   - /about/
