@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello - Cath Ge-Wang"
+title: "Hello"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,9 +13,9 @@ My primary research interests lie in AI control and agent foundations, particula
 
 ### My Research
 #### Published: 
-1. *Catherine Ge-Wang**, Tyler Crosse*, Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Published at the Second Workshop on Agents in the Wild at ICML 2026. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research.
-2. *Catherine Ge-Wang**, Joy Yang*, Tushar Nagar, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
+1. Catherine Ge-Wang*, Tyler Crosse*, Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Published at the Second Workshop on Agents in the Wild at ICML 2026. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research.
 
+2. Catherine Ge-Wang*, Joy Yang*, Tushar Nagar, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
 #### Non-public (yet)
 1. Non-Great-Power Conflict and AI Risk, research conducted in 2025 as part of the FIG fellowship, under the mentorship of Liam Patell.
 2. Working on reward multiplicity and goal misgeneralisation, negative results conducted in 2025 as part of the RIO fellowship, under the mentorship of Matthew Farrugia-Roberts. 
@@ -25,6 +25,7 @@ My primary research interests lie in AI control and agent foundations, particula
 2. Threat modelling and foundational research for concentration of power.
 
 ### News
+- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Thomson on formalising and building AI auditors under strategic attack selection.
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
 - 07/2026: I completed my in-person week at MIRI. I really enjoyed it and I am very excited to get deeper into governance and policy!
