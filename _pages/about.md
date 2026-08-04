@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors at UK AISI, will be working on verification protocols at MIRI, and previously was a part-time research collaborator at Redwood Research. I run the Oxford AI Safety Initiative's Policy Team.
+Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors at UK AISI, will be working on verification protocols as a MIRI TGT fellow, and previously was a part-time research collaborator at Redwood Research. I run the Oxford AI Safety Initiative's Policy Team.
 
 My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
 
@@ -17,7 +17,7 @@ My primary research interests lie in AI control and agent foundations, particula
 
 2. Catherine Ge-Wang*, Joy Yang*, Tushar Nagar, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
 #### Non-public (yet)
-1. Non-Great-Power Conflict and AI Risk, research conducted in 2025 as part of the FIG fellowship, under the mentorship of Liam Patell.
+1. Non-Great-Power Conflict and AI Risk, research conducted in 2025 as part of the FIG fellowship, under the mentorship of Liam Patell at GovAI.
 2. Working on reward multiplicity and goal misgeneralisation, negative results conducted in 2025 as part of the RIO fellowship, under the mentorship of Matthew Farrugia-Roberts. 
 
 #### In progress
@@ -25,7 +25,7 @@ My primary research interests lie in AI control and agent foundations, particula
 2. Threat modelling and foundational research for concentration of power.
 
 ### News
-- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson on formalising and building AI auditors under strategic attack selection.
+- 07/2026: I'm going to be co-mentoring a SPAR project on formalising and building AI auditors under strategic attack selection.
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
 - 07/2026: I completed my in-person week at MIRI. I really enjoyed it and I am very excited to get deeper into governance and policy!
