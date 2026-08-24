@@ -25,8 +25,8 @@ My primary research interests lie in AI control, evals, and model internals, par
 2. Threat modelling and foundational research for concentration of power.
 
 ### News
-- 09/2026: I've started my MIRI fellowship!
-- 07/2026: I'm going to be co-mentoring a SPAR project on formalising and building AI auditors under strategic attack selection.
+- 09/2026: I've started my MIRI TGT fellowship! 
+- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson on formalising and building AI auditors under strategic attack selection.
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
 - 07/2026: I completed my in-person week at MIRI. I really enjoyed it and I am very excited to get deeper into governance and policy!
