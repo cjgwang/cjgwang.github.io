@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors Alex and Rob at UK AISI, will be working on verification protocols as a MIRI TGT fellow, and previously was a part-time research collaborator at Redwood Research. I run the Oxford AI Safety Initiative's Policy Team.
+Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors Alex and Rob at UK AISI. I'm also working on verification protocols as a MIRI Technical Governance Team fellow, and previously was a part-time research collaborator at Redwood Research. I help run the Oxford AI Safety Initiative's Policy Team.
 
-My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
+My primary research interests lie in AI control, evals, and model internals, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
 
 ### My Research
 #### Published: 
@@ -25,6 +25,7 @@ My primary research interests lie in AI control and agent foundations, particula
 2. Threat modelling and foundational research for concentration of power.
 
 ### News
+- 09/2026: I've started my MIRI fellowship!
 - 07/2026: I'm going to be co-mentoring a SPAR project on formalising and building AI auditors under strategic attack selection.
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
