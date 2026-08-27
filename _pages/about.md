@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors Alex and Rob at UK AISI. I'm also working on verification protocols as a MIRI Technical Governance Team fellow. I was previously a part-time research collaborator at Redwood Research, and I help run the Oxford AI Safety Initiative's Policy Team.
 
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors Alex and Rob at UK AISI. I'm also working on verification protocols as a MIRI Technical Governance Team fellow, and previously was a part-time research collaborator at Redwood Research. I help run the Oxford AI Safety Initiative's Policy Team.
-
-My primary research interests lie in AI control, evals, and model internals, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
+My primary research interests lie in AI control, adversarial robustness, and agentic evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
 
 ### My Research
 #### Published: 
-1. Catherine Ge-Wang*, Tyler Crosse*, Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Published at the Second Workshop on Agents in the Wild at ICML 2026. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research.
+1. **Catherine Ge-Wang(=)**, Tyler Crosse(=), Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Published at the Second Workshop on Agents in the Wild at ICML 2026. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research and mentored by Tyler Tracy.
 
-2. Catherine Ge-Wang*, Joy Yang*, Tushar Nagar, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
+2. **Catherine Ge-Wang(=)**, Joy Yang(=), Tushar Nagar, 2026, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
+
+3. Kristina Kempkey(=), Séan Boddy(=), **Catherine Ge-Wang(=)**, 2026, "Non-Great-Power Conflict and AI Risk". [Arxiv preprint](https://arxiv.org/abs/2608.25839). Research conducted during the Winter 2025 Future Impact Group Fellowship and mentored by Liam Patell at GovAI.
 #### Non-public (yet)
-1. Non-Great-Power Conflict and AI Risk, research conducted in 2025 as part of the FIG fellowship, under the mentorship of Liam Patell at GovAI.
-2. Working on reward multiplicity and goal misgeneralisation, negative results conducted in 2025 as part of the RIO fellowship, under the mentorship of Matthew Farrugia-Roberts at Oxford. 
+1. Working on reward multiplicity and goal misgeneralisation, negative results conducted in 2025 as part of the RIO fellowship, under the mentorship of Matthew Farrugia-Roberts at Oxford. 
 
 #### In progress
 1. Making and publishing an eval for misalignment continuation, mentored by Robert Kirk and Alex Souly at UK AISI as part of the ERA:AI fellowship.
@@ -26,7 +26,7 @@ My primary research interests lie in AI control, evals, and model internals, par
 
 ### News
 - 09/2026: I've started my MIRI TGT fellowship! 
-- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson on formalising and building AI auditors under strategic attack selection.
+- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson on formalising and building [AI auditors under strategic attack selection](https://sparai.org/projects/f26/recLjoiPBrRxLvnDO).
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
 - 07/2026: I completed my in-person week at MIRI. I really enjoyed it and I am very excited to get deeper into governance and policy!
