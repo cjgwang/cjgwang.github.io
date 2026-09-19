@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford. I'm currently working on building misalignment continuation evals with my mentors Alex and Rob at UK AISI. I'm also working on verification protocols as a MIRI Technical Governance Team fellow. I was previously a part-time research collaborator at Redwood Research, and I help run the Oxford AI Safety Initiative's Policy Team.
+Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford, and a technical AI safety researcher. I'm currently working on misalignment continuation and emergent misalignment with my mentors Alex and Rob at UK AISI after the recent OpenAI-Hugging Face incident and the UK AISI cyber incidents. I'm also working on verification  as a MIRI Technical Governance Team fellow. I was previously a part-time research collaborator at Redwood Research, and I help run the Oxford AI Safety Initiative's Policy Team.
 
 My primary research interests lie in AI control, alignment, adversarial robustness, and agentic evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
 
