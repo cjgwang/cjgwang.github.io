@@ -12,7 +12,7 @@ My primary research interests lie in AI control, alignment, adversarial robustne
 
 ### My Research
 #### Published: 
-1. **Catherine Ge-Wang(=)**, Tyler Crosse(=), Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Published at the Second Workshop on Agents in the Wild at ICML 2026. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research and mentored by Tyler Tracy.
+1. **Catherine Ge-Wang(=)**, Tyler Crosse(=), Benjamin Hadad IV, Joachim Schaeffer, Ram Potham, and Tyler Tracy, 2026, "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety". Accepted at NeurIPS 2026 Evaluations & Datasets Track. [Arxiv preprint](https://arxiv.org/abs/2606.06529). Research conducted during my part-time collaboration role at Redwood Research and mentored by Tyler Tracy.
 
 2. **Catherine Ge-Wang(=)**, Joy Yang(=), Tushar Nagar, 2026, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Research conducted independently. 
 
@@ -25,6 +25,7 @@ My primary research interests lie in AI control, alignment, adversarial robustne
 2. Threat modelling and foundational research for concentration of power.
 
 ### News
+- 09/2026: My paper on attack selection in agentic AI control evaluations was accepted as a poster for the NeurIPS 2026 Evaluations & Datasets track in Sydney, Paris, and Atlanta!
 - 09/2026: I've started my MIRI TGT fellowship! 
 - 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson on formalising and building [AI auditors under strategic attack selection](https://sparai.org/projects/f26/recLjoiPBrRxLvnDO).
 - 07/2026: I started working on misalignment continuation evals at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
