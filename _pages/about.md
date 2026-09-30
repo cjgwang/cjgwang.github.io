@@ -17,14 +17,14 @@ My primary research interests lie in AI control, alignment, adversarial robustne
 2. **Catherine Ge-Wang(=)**, Joy Yang(=), Tushar Nagar, 2026, "Round-Trip Latent Geometry in Diffusion VAEs Enables Covert Channels". Published at the Mechanistic Interpretability Workshop at ICML 2026. Awaiting publication on Springer Nature as part of AI4GOOD 2026. Research conducted independently. 
 
 3. Kristina Kempkey(=), Séan Boddy(=), **Catherine Ge-Wang(=)**, 2026, "Non-Great-Power Conflict and AI Risk". [Arxiv preprint](https://arxiv.org/abs/2608.25839). Research conducted during the Winter 2025 Future Impact Group Fellowship and mentored by Liam Patell at GovAI.
-4. 
+
 #### Non-public (yet)
 1. Working on reward multiplicity and goal misgeneralisation using diversity metrics, conducted in 2025, under the mentorship of Matthew Farrugia-Roberts at Oxford. 
 
 #### In progress
 1. Studying misalignment continuation and swarms and making an eval for misalignment continuation after the OpenAI-Hugging Face incident, mentored by Robert Kirk and Alex Souly at UK AISI's Alignment Red-Team as part of the ERA:AI fellowship.
 2. Robust verification escalation protocols for international agreements about AI development, mentored by Naci Cankaya at Lucid Computing. 
-3. Threat modelling and foundational research for concentration of power.
+3. Working on automated auditing of frontier AI labs, building the auditor harness, and crafting attacks for AI auditors.
 
 ### News
 - 09/2026: My paper on attack selection in agentic AI control evaluations was accepted as a poster for the NeurIPS 2026 Evaluations & Datasets track in Sydney, Paris, and Atlanta!
