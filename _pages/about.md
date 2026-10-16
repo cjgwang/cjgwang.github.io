@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford, and a technical AI safety researcher. I'm currently working on misalignment continuation/spread and agent swarms with my mentors Alex and Rob at UK AISI after the recent OpenAI-Hugging Face incident and the UK AISI cyber incidents. I'm also working on verification  as a MIRI Technical Governance Team fellow. I was previously a part-time research collaborator at Redwood Research, and I help run the Oxford AI Safety Initiative's Policy Team.
+Hi! I’m Cath Ge-Wang, a mathematics undergraduate at Christ Church, University of Oxford, and a technical AI safety researcher. I'm currently working on misalignment continuation/spread and agent swarms with my mentors Alex and Rob at UK AISI after the recent OpenAI-Hugging Face incident and the UK AISI cyber incidents. I was previously a part-time research contractor at Redwood Research, worked on verification escalation at MIRI TGT, and I run the Oxford AI Safety Initiative's Policy Team.
 
 My primary research interests lie in AI control, alignment, adversarial robustness, and agentic evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
 
@@ -19,12 +19,13 @@ My primary research interests lie in AI control, alignment, adversarial robustne
 3. Kristina Kempkey(=), Séan Boddy(=), **Catherine Ge-Wang(=)**, 2026, "Non-Great-Power Conflict and AI Risk". [Arxiv preprint](https://arxiv.org/abs/2608.25839). Research conducted during the Winter 2025 Future Impact Group Fellowship and mentored by Liam Patell at GovAI.
 
 #### Non-public (yet)
-1. Working on reward multiplicity and goal misgeneralisation using diversity metrics, conducted in 2025, under the mentorship of Matthew Farrugia-Roberts at Oxford. 
+1. Working on automated auditing of frontier AI labs and crafting automated attacks for AI auditors.
+2. Working on reward multiplicity and goal misgeneralisation using diversity metrics, conducted in 2025, under the mentorship of Matthew Farrugia-Roberts at Oxford. 
+3. Robust verification escalation protocols for international agreements about AI development, mentored by Naci Cankaya at Lucid Computing. 
 
 #### In progress
 1. Studying misalignment continuation and swarms and making an eval for misalignment continuation after the OpenAI-Hugging Face incident, mentored by Robert Kirk and Alex Souly at UK AISI's Alignment Red-Team as part of the ERA:AI fellowship.
-2. Robust verification escalation protocols for international agreements about AI development, mentored by Naci Cankaya at Lucid Computing. 
-3. Working on automated auditing of frontier AI labs, building the auditor harness, and crafting attacks for AI auditors.
+
 
 ### News
 - 09/2026: My paper on attack selection in agentic AI control evaluations was accepted as a poster for the NeurIPS 2026 Evaluations & Datasets track in Sydney, Paris, and Atlanta!
