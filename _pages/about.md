@@ -24,15 +24,13 @@ My primary research interests lie in AI control, alignment, adversarial robustne
 3. Robust verification escalation protocols for international agreements about AI development, mentored by Naci Cankaya at Lucid Computing. 
 
 #### In progress
-1. Studying misalignment continuation and swarms and making an eval for misalignment continuation after the OpenAI-Hugging Face incident, mentored by Robert Kirk and Alex Souly at UK AISI's Alignment Red-Team as part of the ERA:AI fellowship.
-
+1. Studying misalignment continuation and swarms after the OpenAI-Hugging Face incident and UK AISI cyber incident, mentored by Robert Kirk and Alex Souly at UK AISI's Alignment Red-Team as part of the ERA:AI fellowship.
 
 ### News
 - 09/2026: My paper on attack selection in agentic AI control evaluations was accepted as a poster for the NeurIPS 2026 Evaluations & Datasets track in Sydney, Paris, and Atlanta!
 - 09/2026: I've started my MIRI TGT fellowship, mentored by Naci Cankaya at Lucid Computing.
-- 07/2026: I'm going to be co-mentoring a SPAR project with Louis Cooper-Thomson and Addie Foote on [making progress towards third-party automated auditors](https://sparai.org/projects/f26/recLjoiPBrRxLvnDO).
+- 07/2026: I'm going to be co-mentoring a project with Louis Cooper-Thomson and Addie Foote on [making progress towards third-party automated auditors](https://sparai.org/projects/f26/recLjoiPBrRxLvnDO).
 - 07/2026: I started working on misalignment continuation at the ERA:AI fellowship, mentored by Rob and Alex at AISI. 
 - 07/2026: I attended ICML 2026 in Seoul, Korea, where my work was published at 4 AI safety workshops. 
-- 07/2026: I completed my in-person week at MIRI. I really enjoyed it and I am very excited to get deeper into technical governance.
 - 03/2026: I changed my last name from "Wang" to "Ge-Wang" when my first publications came out. I wanted to honour my mother's side of the family. 
 - 04/2026: I started a part-time collaboration position with Redwood Research to continue working on my attack selection paper.
