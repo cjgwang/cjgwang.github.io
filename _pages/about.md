@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Cath Ge-Wang, a mathematics undergraduate at the University of Oxford and an AI alignment researcher. I'm currently working on building misalignment continuation evals with my mentors at the UK AISI Alignment Red-Team and piloting automated embedded auditing for scalable oversight. I was previously a TGT fellow at the Machine Intelligence Research Institute, a part-time research collaborator at Redwood Research, and helped run the Oxford AI Safety Initiative's Policy Team.
+Hi! I’m Cath Ge-Wang（wong4 gaai1 hing1）, a mathematics undergraduate at the University of Oxford and an AI alignment researcher. I'm currently working on building misalignment continuation evals with my mentors at the UK AISI Alignment Red-Team and piloting automated embedded auditing for scalable oversight. I was previously a TGT fellow at the Machine Intelligence Research Institute, a part-time research collaborator at Redwood Research, and helped run the Oxford AI Safety Initiative's Policy Team.
 
-My primary research interests lie in AI alignment, control, adversarial robustness, and agentic evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems at AI-driven R&D accelerates. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
+My primary research interests lie in AI alignment, control, adversarial robustness, and safety evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems as AI R&D accelerates. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification and constraining dangerous capability deployment.
 
 ### My Research
 #### Published: 
@@ -27,6 +27,7 @@ My primary research interests lie in AI alignment, control, adversarial robustne
 1. Studying misalignment continuation and swarms after the OpenAI-Hugging Face incident and UK AISI cyber incident, mentored by Robert Kirk and Alex Souly at UK AISI's Alignment Red-Team as part of the ERA:AI fellowship.
 
 ### News
+- 11/2026: I'm leading Chorus Research, a research org focusing on automated embedded auditing of frontier AI labs.
 - 09/2026: My paper on attack selection in agentic AI control evaluations was accepted as a poster for the NeurIPS 2026 Evaluations & Datasets track in Sydney, Paris, and Atlanta!
 - 09/2026: I've started my MIRI TGT fellowship, mentored by Naci Cankaya at Lucid Computing.
 - 07/2026: I'm going to be co-mentoring a project with Louis Cooper-Thomson and Addie Foote on [making progress towards third-party automated auditors](https://sparai.org/projects/f26/recLjoiPBrRxLvnDO).
