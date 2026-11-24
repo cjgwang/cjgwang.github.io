@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I’m Cath Ge-Wang（wong4 gaai1 hing1）, a mathematics undergraduate at the University of Oxford and an AI alignment researcher. I'm currently working on building misalignment continuation evals with my mentors at the UK AISI Alignment Red-Team and piloting automated embedded auditing for scalable oversight. I was previously a TGT fellow at the Machine Intelligence Research Institute, a part-time research collaborator at Redwood Research, and helped run the Oxford AI Safety Initiative's Policy Team.
 
-My primary research interests lie in AI alignment, control, adversarial robustness, and safety evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems as AI R&D accelerates. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification and constraining dangerous capability deployment.
+My primary research interests lie in AI alignment, control, adversarial robustness, and safety evaluations, particularly to understand and mitigate emergent misalignment risks in autonomous AI systems as AI R&D accelerates. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification and constraining dangerous capability deployment. Depending on the time of year, I'm typically based in Oxford or Hong Kong.
 
 ### My Research
 #### Published: 
